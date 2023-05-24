@@ -18,4 +18,4 @@ class MyClient(discord.Client):
             await message.channel.send('Hello World!')
 
 
-client.run('MTA4Njk2MjkxMDIwMDM0NDY3OA.GA8rfa.-WCuZEcRU-IQcl3dqjb9dHkuwLiAqe3cGCsd-Q')
+client.run('_')
