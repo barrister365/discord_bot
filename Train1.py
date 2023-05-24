@@ -19,4 +19,4 @@ async def remindme(ctx, time: int, message: str):
     await bot.say('Reminder: {}'.format(message))
 
 
-bot.run('MTA4Njk2MjkxMDIwMDM0NDY3OA.GA8rfa.-WCuZEcRU-IQcl3dqjb9dHkuwLiAqe3cGCsd-Q')
+bot.run('_')
