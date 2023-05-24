@@ -12,4 +12,4 @@ async def on_message(ctx):
         await ctx.reply(ctx.content)
 
 
-bot.run('MTA4Njk2MjkxMDIwMDM0NDY3OA.GA8rfa.-WCuZEcRU-IQcl3dqjb9dHkuwLiAqe3cGCsd-Q')
+bot.run('_')
