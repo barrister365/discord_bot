@@ -12,4 +12,4 @@ async def on_ready():
         await message.(channel, 'This is an automated message!')
         await asyncio.sleep(40) # Sleep for 40 seconds
 
-client.run('MTA4Njk2MjkxMDIwMDM0NDY3OA.GA8rfa.-WCuZEcRU-IQcl3dqjb9dHkuwLiAqe3cGCsd-Q')
+client.run('_')
